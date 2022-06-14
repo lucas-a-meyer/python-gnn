@@ -1,9 +1,10 @@
 project:
   type: book
+  output-dir: docs
 
 book:
-  title: "python-gnn"
-  author: "Jane Doe"
+  title: "Practical Graph Neural Networks with Python"
+  author: "Lucas A. Meyer"
   date: "6/14/2022"
   chapters:
     - index.qmd
@@ -16,8 +17,7 @@ bibliography: references.bib
 format:
   html:
     theme: cosmo
-  pdf:
-    documentclass: scrreprt
+
 
 
 
