@@ -1,3 +1,6 @@
+---
+include-in-header: _msft-clarity.html
+---
 # Summary
 
 In summary, this book has no content whatsoever.

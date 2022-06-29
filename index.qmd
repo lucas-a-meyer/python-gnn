@@ -1,3 +1,6 @@
+---
+include-in-header: _msft-clarity.html
+---
 # Preface {.unnumbered}
 
 This is a Quarto book.
